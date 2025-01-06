@@ -30,5 +30,5 @@ setup(
     author="Jai Vadula",
     author_email="jaivadula@gmail.com",
     packages=find_packages(),
-    install_requirements=get_requirements()
+    install_requires=get_requirements()
 )
